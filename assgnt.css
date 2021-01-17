@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    padding-bottom: 20px;
+    font-size: 18pt;
+}
+p{
+    padding-bottom: 30px;
+    font-size: 10.5pt;
+}
+a {
+    display: inline-block;
+    border-radius: 10%;
+    background-color: dodgerblue;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 10px;
+    margin:5px 0 5px;
+}
+
+h3 {
+    padding-bottom: 30px;
+    font-size: 8pt;
+}
+h4{
+    margin-top: 10px;
+    font-size: 10.5pt;
+}
+
+h5 {
+    padding-bottom: 20px;
+}
+
+h6{
+    color: dodgerblue;
+    margin-top: 15px;
+    font-size: 7.5pt;
+}
+.whole-element{
+    font-family:'Times New Roman', Times, serif;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+div{
+    display: block;
+}
+
+li {
+    padding-bottom: 20px;
+    font-size: 2pt;
+}
